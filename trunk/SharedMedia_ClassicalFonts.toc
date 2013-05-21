@@ -1,0 +1,31 @@
+## Interface: 50300
+## Title: SharedMedia Classical Fonts
+## Notes: @localization(locale="enUS")@
+## Notes-ruRU: @localization(locale="ruRU")@
+## Notes-deDE: @localization(locale="deDE")@
+## Notes-koKR: @localization(locale="koKR")@
+## Notes-esMX: @localization(locale="esES")@
+## Notes-esES: @localization(locale="esES")@
+## Notes-ptBR: @localization(locale="ptBR")@
+## Notes-zhCN: @localization(locale="zhCN")@
+## Notes-zhTW: @localization(locale="zhTW")@
+## Notes-itIT: @localization(locale="itIT")@
+## Notes-frFR: @localization(locale="frFR")@
+
+## Version: @project-version@
+## Author: Myrroddin of Llane-US (Alliance, Knights of the Storm)
+## X-Donate: http://pledgie.com/campaigns/19879
+## X-Category: Miscellaneous
+## X-License: Public Domain. See Licences folder for details
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+
+## OptionalDeps: LibStub, CallbackHander-1.0, LibSharedMedia-3.0
+
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\CallbackHander-1.0\CallbackHander-1.0.lua
+Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+#@end-no-lib-strip@
+
+Main.lua
