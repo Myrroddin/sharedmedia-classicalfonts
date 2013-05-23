@@ -1,4 +1,4 @@
-local lsm = LibStub("LibSharedMedia-3.0" true)
+local lsm = LibStub("LibSharedMedia-3.0", true)
 
 lsm:Register("font", "Augustus", "Interface\\AddOns\\SharedMedia_ClassicalFonts\\Fonts\\AUGUSTUS")
 lsm:Register("font", "Caesar", "Interface\\AddOns\\SharedMedia_ClassicalFonts\\Fonts\\CAESAR")
