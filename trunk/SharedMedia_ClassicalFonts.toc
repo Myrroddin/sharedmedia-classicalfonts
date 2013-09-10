@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 50400
 ## Title: SharedMedia Classical Fonts
 ## Notes: @localization(locale="enUS", key="Notes", namespace="ToC")@
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
