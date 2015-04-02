@@ -1,4 +1,4 @@
-## Interface: 50400
+## Interface: 60100
 ## Title: SharedMedia Classical Fonts
 ## Notes: @localization(locale="enUS", key="Notes", namespace="ToC")@
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
@@ -14,8 +14,7 @@
 
 ## Version: @project-version@
 ## Author: Myrroddin of Llane-US (Alliance, Knights of the Storm)
-## X-Donate: http://pledgie.com/campaigns/19879
-## X-Category: Miscellaneous
+## X-Category: Plugins
 ## X-License: Public Domain. See Licences folder for details
 ## X-Date: @project-date-iso@
 ## X-Revision: @project-revision@
