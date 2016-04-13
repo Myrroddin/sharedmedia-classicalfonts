@@ -1,6 +1,6 @@
-## Interface: 60100
+## Interface: 60200
 ## Title: SharedMedia Classical Fonts
-## Notes: @localization(locale="enUS", key="Notes", namespace="ToC")@
+## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
 ## Notes-deDE: @localization(locale="deDE", key="Notes", namespace="ToC")@
 ## Notes-koKR: @localization(locale="koKR", key="Notes", namespace="ToC")@
