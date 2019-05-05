@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 80100
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
@@ -19,11 +19,11 @@
 ## X-Date: @project-date-iso@
 ## X-Revision: @project-revision@
 
-## OptionalDeps: LibStub, CallbackHander-1.0, LibSharedMedia-3.0
+## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
 
 #@no-lib-strip@
 Libs\LibStub\LibStub.lua
-Libs\CallbackHander-1.0\CallbackHander-1.0.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
 #@end-no-lib-strip@
 
