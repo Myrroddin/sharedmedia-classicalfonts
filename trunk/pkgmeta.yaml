@@ -7,4 +7,4 @@ externals:
 
 
 ignore:
-    LibStub/tests
+    - LibStub/tests
