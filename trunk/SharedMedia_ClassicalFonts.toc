@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 80300
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
@@ -13,7 +13,7 @@
 ## Notes-frFR: @localization(locale="frFR", key="Notes", namespace="ToC")@
 
 ## Version: @project-version@
-## Author: Myrroddin of Llane-US (Alliance, Knights of the Storm)
+## Author: Sygon of Lightbringer-US (Alliance, Crimson Embers)
 ## X-Category: Plugins
 ## X-License: Public Domain. See Licences folder for details
 ## X-Date: @project-date-iso@
