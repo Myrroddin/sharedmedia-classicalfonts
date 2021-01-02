@@ -7,6 +7,7 @@ name: Package and release
 # other branches or even pullrequests.
 on:
   push:
+    branches: [ master ]
     tags:
       - '**'
 
@@ -35,11 +36,7 @@ jobs:
         with:
           # you can specify how much of the commit history you want to fetch,
           # which is useful for controlling the length of the automated changelog
-          fetch-depth: 50
-
-      # once cloned, we just run the GitHub Action for the packager project
-      - name: Package and release
-        uses: BigWigsMods/packager@master
+          fetch-depth: 50      
 
       # another example where we supply additional arguments, this example is specifically to release
       # for the Classic version of the game
@@ -47,3 +44,7 @@ jobs:
         uses: BigWigsMods/packager@master
         with:
           args: -g classic
+
+      # once cloned, we just run the GitHub Action for the packager project
+        - name: Package and release
+        uses: BigWigsMods/packager@master
