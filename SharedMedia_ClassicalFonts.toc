@@ -1,5 +1,5 @@
 #@retail@
-## Interface: 90002
+## Interface: 90005
 #@end-retail@
 #@non-retail@
 # ## Interface: 11306
@@ -28,10 +28,8 @@
 
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
 
-#@no-lib-strip@
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
-#@end-no-lib-strip@
 
 Main.lua
