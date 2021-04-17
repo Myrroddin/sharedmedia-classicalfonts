@@ -45,6 +45,12 @@ jobs:
         with:
           args: -g classic
 
+      # for the TBC version of the game
+      - name: Package and release for TBC
+        uses: BigWigsMods/packager@master
+        with:
+          args: -g bc
+
       # once cloned, we just run the GitHub Action for the packager project
       - name: Package and release
         uses: BigWigsMods/packager@master
