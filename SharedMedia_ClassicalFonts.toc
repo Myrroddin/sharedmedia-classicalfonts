@@ -1,5 +1,5 @@
 ## Interface-Retail: 90105
-## Interface-Classic: 11400
+## Interface-Classic: 11401
 ## Interface-BCC: 20502
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
