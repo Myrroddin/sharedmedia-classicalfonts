@@ -1,6 +1,6 @@
 ## Interface: 90200
 ## Interface-Classic: 11402
-## Interface-BCC: 20503
+## Interface-BCC: 20504
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-ruRU: @localization(locale="ruRU", key="Notes", namespace="ToC")@
