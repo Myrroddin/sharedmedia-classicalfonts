@@ -1,5 +1,6 @@
 package-as: SharedMedia_ClassicalFonts
 wowi-archive-previous: no
+enable-toc-creation: yes
 
 externals:
     Libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
