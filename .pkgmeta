@@ -9,4 +9,4 @@ externals:
 
 
 ignore:
-    - LibStub/tests
+    - Libs/LibStub/tests
