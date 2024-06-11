@@ -4,6 +4,12 @@ This addon adds fonts to [LibSharedMedia-3.0](https://www.curseforge.com/wow/add
 
 ## Installation and Use
 
+Download SharedMedia Classical Fonts from one of the following websites:
+
+* [Curseforge](https://www.curseforge.com/wow/addons/sharedmedia-classicalfonts)
+* [Wowinterface](https://www.wowinterface.com/downloads/info22318-SharedMedia_ClassicalFonts.html)
+* [Wago.io](https://addons.wago.io/addons/sharedmedia-classicalfonts)
+
 Install this addon like every other addon, into the `\World of Warcraft\_game_version_\Interface\AddOns\` folder. Once installed, select a font as shown in the screenshots. Dozens of addons support LSM.
 
 ## Fonts Added
