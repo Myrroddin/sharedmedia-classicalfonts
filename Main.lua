@@ -11,7 +11,7 @@ LSM:Register(MediaType_FONT, "Ancient Geek", [[Interface\AddOns\SharedMedia_Clas
 LSM:Register(MediaType_FONT, "Marathon", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\mara2v2.ttf]])
 LSM:Register(MediaType_FONT, "Roman SD", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Roman SD.ttf]])
 LSM:Register(MediaType_FONT, "Triatlhon In", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Triatlhon In.ttf]])
-LSM:Register(MediaType_FONT, "ROMANUM EST (ALL CAPS)", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Romanum Est.ttf]])
+LSM:Register(MediaType_FONT, "ROMANUM EST ALL CAPS", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Romanum Est.ttf]])
 LSM:Register(MediaType_FONT, "King Arthur Legend", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\King Arthur Legend.ttf]])
 LSM:Register(MediaType_FONT, "Olde English", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\OldeEnglish.ttf]])
 LSM:Register(MediaType_FONT, "Germanica", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Plain Germanica.ttf]])
