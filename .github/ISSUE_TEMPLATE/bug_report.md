@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: 'bug, new'
+labels: bug, new
 assignees: Myrroddin
 
 ---
@@ -12,9 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. WoW version (vanilla Classic Era, Cataclysm, retail):
+1. WoW version (vanilla Classic Era, Season of..., retail, other):
 2. SharedMedia Classical Fonts version:
-3. WoW text language:
+3. WoW text language (English, Traditional Chinese, etc):
 4. See error
 
 **Expected behavior**
