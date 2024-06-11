@@ -18,3 +18,4 @@ LSM:Register(MediaType_FONT, "Germanica", [[Interface\AddOns\SharedMedia_Classic
 LSM:Register(MediaType_FONT, "Germanica Shadowed", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Shadowed Germanica.ttf]])
 LSM:Register(MediaType_FONT, "Germanica Embossed", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Embossed Germanica.ttf]])
 LSM:Register(MediaType_FONT, "Germanica Fluted", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Fluted Germanica.ttf]])
+LSM:Register(MediaType_FONT, "Cleopatra", [[Interface\AddOns\SharedMedia_ClassicalFonts\Fonts\Cleopatra.ttf]])
