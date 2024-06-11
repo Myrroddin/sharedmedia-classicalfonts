@@ -22,6 +22,10 @@ Install this addon like every other addon, into the `\World of Warcraft\_game_ve
 * Cleopatra https://www.dafont.com/cleopatra.font
 * Germanica (plain, shadowed, embossed, fluted) https://www.dafont.com/germanica-family.font
 
+## Issue Tracker
+
+Found a bug or want to suggest an improvement? [Click here](https://github.com/Myrroddin/sharedmedia-classicalfonts/issues) and tell me about it.
+
 ## Sample Images from AddOns
 
 Please note that any addon which uses LibSharedMedia-3.0 usually includes fonts, plus LSM ships with some.
