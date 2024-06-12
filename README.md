@@ -36,6 +36,10 @@ Found a bug or want to suggest an improvement? [Click here](https://github.com/M
 
 Please note that any addon which uses LibSharedMedia-3.0 usually includes fonts, plus LSM ships with some.
 
+### BigWigs Boss Mods
+
 ![bigwigs fonts](https://github.com/Myrroddin/sharedmedia-classicalfonts/assets/6456346/6ec7bb1e-bfb2-4273-980d-139298a5d563)
+
+### ElvUI
 
 ![elvui fonts](https://github.com/Myrroddin/sharedmedia-classicalfonts/assets/6456346/375aebfa-31ea-4779-abd3-9130a4947700)
