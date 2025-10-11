@@ -9,4 +9,7 @@ externals:
 
 ignore:
   - Libs/LibStub/tests
+  - Libs/LibStub/LibStub.toc
+  - Libs/CallbackHandler-1.0/CallbackHandler-1.0.xml
+  - Libs/LibSharedMedia-3.0/lib.xml
   - README.md
