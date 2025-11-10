@@ -1,4 +1,4 @@
-## Interface: 11507, 50501, 110205
+## Interface: 11508, 50502, 110205, 120000
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-deDE: @localization(locale="deDE", key="Notes", namespace="ToC")@
