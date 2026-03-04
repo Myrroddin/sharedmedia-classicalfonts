@@ -1,0 +1,33 @@
+# ------------------------------
+# World of Warcraft addon ignores
+# ------------------------------
+
+# BigWigs/CF packager local output (when packaging locally)
+.release/
+release/
+dist/
+
+# Packaged archives
+*.zip
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Lua bytecode / cache
+*.luac
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Keep addon source and metadata tracked
+# (do NOT ignore .toc, .pkgmeta, Lua/XML assets)
