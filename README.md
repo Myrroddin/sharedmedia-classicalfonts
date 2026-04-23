@@ -6,31 +6,31 @@ This addon adds fonts to [LibSharedMedia-3.0](https://www.curseforge.com/wow/add
 
 Download SharedMedia Classical Fonts from one of the following websites:
 
-* [Curseforge](https://www.curseforge.com/wow/addons/sharedmedia-classicalfonts)
-* [Wowinterface](https://www.wowinterface.com/downloads/info22318-SharedMedia_ClassicalFonts.html)
-* [Wago.io](https://addons.wago.io/addons/sharedmedia-classicalfonts)
+- [Curseforge](https://www.curseforge.com/wow/addons/sharedmedia-classicalfonts)
+- [Wowinterface](https://www.wowinterface.com/downloads/info22318-SharedMedia_ClassicalFonts.html)
+- [Wago.io](https://addons.wago.io/addons/sharedmedia-classicalfonts)
 
 Install this addon like every other addon, into the `\World of Warcraft\_game_version_\Interface\AddOns\` folder. Once installed, select a font as shown in the screenshots. Dozens of addons support LSM.
 
 ## Fonts Added
 
-* Augustus and Augustus Beveled https://www.dafont.com/search.php?q=augustus
-* Caesar https://www.dafont.com/caesar.font
-* Diogenes https://www.dafont.com/diogenes.font
-* Capitalis Type Oasis https://www.dafont.com/capitalis-typoasis.font
-* Ancient Geek https://www.dafont.com/search.php?q=ancient+geek
-* Marathon https://www.dafont.com/marathon.font
-* Roman SD https://www.dafont.com/roman-sd.font
-* Triatlhon In https://www.dafont.com/triatlhon-in.font
-* ROMANUM EST ALL CAPS (there are no lower-case characters) https://www.dafont.com/romanum-est.font
-* King Arthur Legend https://www.dafont.com/king-arthur-legend.font
-* Olde English https://www.dafont.com/olde-english.font
-* Cleopatra https://www.dafont.com/cleopatra.font
-* Germanica (plain, shadowed, embossed, fluted) https://www.dafont.com/germanica-family.font
+- [Augustus and Augustus Beveled](https://www.dafont.com/search.php?q=augustus)
+- [Caesar](https://www.dafont.com/caesar.font)
+- [Diogenes](https://www.dafont.com/diogenes.font)
+- [Capitalis Type Oasis](https://www.dafont.com/capitalis-typoasis.font)
+- [Ancient Geek](https://www.dafont.com/search.php?q=ancient+geek)
+- [Marathon](https://www.dafont.com/marathon.font)
+- [Roman SD](https://www.dafont.com/roman-sd.font)
+- [Triatlhon In](https://www.dafont.com/triatlhon-in.font)
+- [ROMANUM EST ALL CAPS](https://www.dafont.com/romanum-est.font) (there are no lower-case characters)
+- [King Arthur Legend](https://www.dafont.com/king-arthur-legend.font)
+- [Olde English](https://www.dafont.com/olde-english.font)
+- [Cleopatra](https://www.dafont.com/cleopatra.font)
+- [Germanica](https://www.dafont.com/germanica-family.font) (plain, shadowed, embossed, fluted)
 
 ## Issue Tracker
 
-Found a bug or want to suggest an improvement? [Click here](https://github.com/Myrroddin/sharedmedia-classicalfonts/issues) and tell me about it.
+Found a bug or want to suggest an improvement? [Go to GitHub](https://github.com/Myrroddin/sharedmedia-classicalfonts/issues) and tell me about it.
 
 ## Sample Images from AddOns
 
