@@ -1,4 +1,4 @@
-## Interface: 120005, 50503, 38001, 20505, 11508
+## Interface: 120005, 50504, 38001, 20505, 11508
 ## Title: SharedMedia Classical Fonts
 ## Notes: Plugs classical world style fonts into LibSharedMedia-3.0
 ## Notes-deDE: @localization(locale="deDE", key="Notes", namespace="ToC")@
@@ -35,7 +35,7 @@
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibSharedMedia-3.0
 
 Libs\LibStub\LibStub.lua
-Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
-Libs\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\LibSharedMedia-3.0\lib.xml
 
 Main.lua
