@@ -1,34 +1,24 @@
----@class LibSharedMediaMediaTypes
----@field FONT string
-
----@class LibSharedMedia
----@field MediaType LibSharedMediaMediaTypes
----@field Register fun(self: LibSharedMedia, mediaType: string, key: string, data: string): boolean
-
----@type LibSharedMedia
 local LSM = LibStub("LibSharedMedia-3.0")
-
 local MediaType_FONT = LSM.MediaType.FONT or "font"
 
----@type table<string, string>
 local fonts = {
-	["Augustus"] = "AUGUSTUS.ttf",
-	["Augustus Beveled"] = "Augustus Beveled.ttf",
-	["Caesar"] = "CAESAR.ttf",
-	["Diogenes"] = "DIOGENES.ttf",
-	["Capitalis Type Oasis"] = "CapitalisTypOasis.ttf",
-	["Ancient Geek"] = "geek.ttf",
-	["Marathon"] = "mara2v2.ttf",
-	["Roman SD"] = "Roman SD.ttf",
-	["Triatlhon In"] = "Triatlhon In.ttf",
-	["ROMANUM EST ALL CAPS"] = "Romanum Est.ttf",
-	["King Arthur Legend"] = "King Arthur Legend.ttf",
-	["Olde English"] = "OldeEnglish.ttf",
-	["Germanica"] = "Plain Germanica.ttf",
-	["Germanica Shadowed"] = "Shadowed Germanica.ttf",
-	["Germanica Embossed"] = "Embossed Germanica.ttf",
-	["Germanica Fluted"] = "Fluted Germanica.ttf",
-	["Cleopatra"] = "Cleopatra.ttf",
+	["Ancient Geek"]			= "geek.ttf",
+	["Augustus"]				= "AUGUSTUS.ttf",
+	["Augustus Beveled"]		= "Augustus Beveled.ttf",
+	["Caesar"]					= "CAESAR.ttf",
+	["Capitalis Type Oasis"]	= "CapitalisTypOasis.ttf",
+	["Cleopatra"]				= "Cleopatra.ttf",
+	["Diogenes"]				= "DIOGENES.ttf",
+	["Germanica"]				= "Plain Germanica.ttf",
+	["Germanica Embossed"]		= "Embossed Germanica.ttf",
+	["Germanica Fluted"]		= "Fluted Germanica.ttf",
+	["Germanica Shadowed"]		= "Shadowed Germanica.ttf",
+	["King Arthur Legend"]		= "King Arthur Legend.ttf",
+	["Marathon"]				= "mara2v2.ttf",
+	["Olde English"]			= "OldeEnglish.ttf",
+	["ROMANUM EST ALL CAPS"]	= "Romanum Est.ttf",
+	["Roman SD"]				= "Roman SD.ttf",
+	["Triatlhon In"]			= "Triatlhon In.ttf",
 }
 
 local basePath = "Interface\\AddOns\\SharedMedia_ClassicalFonts\\Fonts\\"
