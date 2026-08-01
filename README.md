@@ -14,19 +14,21 @@ Install this addon like every other addon, into the `\World of Warcraft\_game_ve
 
 ## Fonts Added
 
+- [Ancient Geek](https://www.dafont.com/search.php?q=ancient+geek)
 - [Augustus and Augustus Beveled](https://www.dafont.com/search.php?q=augustus)
 - [Caesar](https://www.dafont.com/caesar.font)
-- [Diogenes](https://www.dafont.com/diogenes.font)
 - [Capitalis Type Oasis](https://www.dafont.com/capitalis-typoasis.font)
-- [Ancient Geek](https://www.dafont.com/search.php?q=ancient+geek)
-- [Marathon](https://www.dafont.com/marathon.font)
-- [Roman SD](https://www.dafont.com/roman-sd.font)
-- [Triatlhon In](https://www.dafont.com/triatlhon-in.font)
-- [ROMANUM EST ALL CAPS](https://www.dafont.com/romanum-est.font) (there are no lower-case characters)
-- [King Arthur Legend](https://www.dafont.com/king-arthur-legend.font)
-- [Olde English](https://www.dafont.com/olde-english.font)
 - [Cleopatra](https://www.dafont.com/cleopatra.font)
+- [Diogenes](https://www.dafont.com/diogenes.font)
 - [Germanica](https://www.dafont.com/germanica-family.font) (plain, shadowed, embossed, fluted)
+- [Herculanum](https://www.myfonts.com/collections/herculanum-font-linotype)
+- [King Arthur Legend](https://www.dafont.com/king-arthur-legend.font)
+- [Marathon](https://www.dafont.com/marathon.font)
+- [Norse](https://www.dafont.com/norse.font) (plain and bold)
+- [Olde English](https://www.dafont.com/olde-english.font)
+- [Roman SD](https://www.dafont.com/roman-sd.font)
+- [ROMANUM EST ALL CAPS](https://www.dafont.com/romanum-est.font) (there are no lower-case characters)
+- [Triatlhon In](https://www.dafont.com/triatlhon-in.font)
 
 ## Issue Tracker
 
