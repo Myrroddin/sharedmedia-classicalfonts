@@ -30,7 +30,12 @@ Install this addon like every other addon, into the `\World of Warcraft\_game_ve
 - [ROMANUM EST ALL CAPS](https://www.dafont.com/romanum-est.font) (there are no lower-case characters)
 - [Triatlhon In](https://www.dafont.com/triatlhon-in.font)
 
+<<<<<<< HEAD
 ![fonts](https://github.com/user-attachments/assets/f39143f2-6589-451b-a36f-ca71630efeb0)
+=======
+<img width="342" height="491" alt="fonts" src="https://github.com/user-attachments/assets/f39143f2-6589-451b-a36f-ca71630efeb0" />
+
+>>>>>>> 5e26a53f76381872e2307f8eef18dc46a881125b
 
 ## Issue Tracker
 
